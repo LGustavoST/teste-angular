@@ -1,0 +1,9 @@
+$primaryColor: rgb(22,65, 148);
+$secondaryColor: rgb(249 ,176, 0);
+$accentColor: rgb(91, 197, 242);
+
+$md-light-indigo-primary-color: $primaryColor;
+$md-light-indigo-secondary-color: $secondaryColor;
+$md-light-indigo-accent-color: $accentColor;
+
+@import "~primemg/resources/themes/md-light-indigo/theme";
